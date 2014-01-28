@@ -22,4 +22,11 @@ http://www.geoplugin.com/webservices/php
 *trashit.php* to set cron at: *<?php 	file_put_contents('track.log', " ", LOCK_EX); ?>* to regularly empty out the logger
 
 
+----
 
+__Trim-Array__
+
+Unset empty values in array like, after import from csv or so.
+
+
+----
